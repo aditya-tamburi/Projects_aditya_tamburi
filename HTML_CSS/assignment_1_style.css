@@ -1,0 +1,58 @@
+*{
+     margin: 0;
+     padding: 0;
+}
+
+.container{
+    background-color: sandybrown;
+    display: flex;
+    justify-content: center;
+    
+}
+.hero {
+    font-size: medium;
+    background-color: sandybrown;
+    display: flex; 
+    justify-content: center;
+}
+
+.left{
+    margin-top: 100px;
+
+}
+h6{
+    color: aliceblue;
+}
+.right{
+    margin-top: 50px;
+}
+input{
+    height: 40px;
+    width: 250px;
+    border-radius: 5px;
+}
+button{
+    color: white;
+    background-color: black;
+    height: 43px ;
+    width: 150px;
+    border-radius: 5px;
+}
+.footer{
+    height: 190px;
+    background-color: black;
+    display: flex;
+    color: aliceblue;
+    
+    
+} 
+.left1{
+    margin-top: 50px;
+    margin-left: 300px;
+    
+}
+.right2{
+    margin-top: 50px;
+    margin-left: 450px;
+    text-align: end;
+}
